@@ -1,0 +1,1 @@
+This spring boot application demonstrates how can we run unit tests for repository layer with real data base.
